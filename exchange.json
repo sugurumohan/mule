@@ -5,8 +5,8 @@
   "organizationId": "09bb754b-64d7-4f61-9a1a-79e3edf235eb",
   "descriptorVersion": "1.0.0",
   "tags": [],
+  "apiVersion": "v1",
   "groupId": "09bb754b-64d7-4f61-9a1a-79e3edf235eb",
   "assetId": "hello-sys-api",
-  "version": "1.0.0",
-  "apiVersion": "v1"
+  "version": "1.0.1"
 }
