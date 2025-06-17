@@ -1,0 +1,11 @@
+{
+  "main": "hello-sys-api.raml",
+  "name": "hello-sys-api",
+  "classifier": "raml",
+  "organizationId": "09bb754b-64d7-4f61-9a1a-79e3edf235eb",
+  "descriptorVersion": "1.0.0",
+  "groupId": "09bb754b-64d7-4f61-9a1a-79e3edf235eb",
+  "assetId": "hello-sys-api",
+  "version": "1.0.0",
+  "tags": []
+}

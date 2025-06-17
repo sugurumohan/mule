@@ -1,0 +1,17 @@
+#%RAML 1.0
+title: hello-sys-api
+version: v1
+baseUri: http://api.example.com/{version}       
+mediaType: application/json
+
+/hello :
+    get:
+        description: Returns a greeting message
+        responses:
+            200:
+                body:
+                    application/json:
+                        example: |
+                            {
+                                "message": "Hello, World!"
+                            }
